@@ -23,4 +23,4 @@ I am a string literal
 
 
 ## RESULT
-Thus the multiple line using triple quotes implemented successfully.
+Thus the given program implemented and executed successfully.
